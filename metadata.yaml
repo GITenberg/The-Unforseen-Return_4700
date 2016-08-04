@@ -1,0 +1,35 @@
+_repo: The-Unforseen-Return_4700
+_version: 0.0.1
+alternative_title: Le retour imprévu. English
+contributor:
+  translator:
+    agent_name: Morlock, Frank J.
+    gutenberg_agent_id: '1532'
+    url: http://www.gutenberg.org/2009/agents/1532
+creator:
+  author:
+    agent_name: Regnard, Jean François
+    alias: Regnard, Jean Francois
+    birthdate: 1655
+    deathdate: 1709
+    gutenberg_agent_id: '1551'
+    url: http://www.gutenberg.org/2009/agents/1551
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Regnard
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4700'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'France -- Social life and customs -- 18th century -- Drama'
+- !lcsh 'French drama -- 18th century -- Translations into English'
+- !lcsh 'Comedies'
+- !lcc 'PQ'
+- !lcsh 'Haunted houses -- France -- Drama'
+- GITenberg
+title: The Unforseen Return
+url: http://www.gutenberg.org/ebooks/4700
